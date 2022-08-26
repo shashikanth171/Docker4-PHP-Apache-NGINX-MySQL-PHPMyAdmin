@@ -1,4 +1,4 @@
-# Docker-based PHP+Apache/NGINX+MySQL+PHPMyAdmin stack
+# Docker-based PHP+Apache/NGINX+MySQL+phpMyAdmin stack
 
 [![Build Status](https://github.com/shashikanth171/Docker4-PHP-Apache-NGINX-MySQL-PHPMyAdmin/workflows/Run%20tests/badge.svg)](https://github.com/shashikanth171/Docker4-PHP-Apache-NGINX-MySQL-PHPMyAdmin/actions)
 
