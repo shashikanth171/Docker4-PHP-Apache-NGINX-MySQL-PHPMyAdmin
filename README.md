@@ -15,7 +15,8 @@
 4. Run `make` to start the containers.
 
     * Use http://{PROJECT_BASE_URL}:8001/ to open the project in browser
-    * Open http://{PROJECT_BASE_URL}:8001/php_info.php to test is php is working.
+    * Open http://{PROJECT_BASE_URL}:8001/php_info.php to test is php is working
+    * PhpMyAdmin can be accessed at http://pma.{PROJECT_BASE_URL}:8001/
 
 Other useful commands
 * Run `make stop` to stop the containers.
