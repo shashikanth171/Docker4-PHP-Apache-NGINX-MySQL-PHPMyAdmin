@@ -4,9 +4,6 @@ about: Request support from community
 
 ---
 
-***Codebase***
-Built-in vanilla Drupal or mounted codebase
-
 **Describe your issue**
 A clear and concise description of your issue.
 

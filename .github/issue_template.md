@@ -1,6 +1,3 @@
-### Codebase
-Built-in vanilla Drupal or mounted codebase
-  
 ### Host OS 
 e.g. macOS Sierra
 
